@@ -1,2 +1,4 @@
 # hello-world
-This is a my first repository.
+
+Hello Humans,
+My name is Logan and I will be speaking in behalf of Mutants here.
